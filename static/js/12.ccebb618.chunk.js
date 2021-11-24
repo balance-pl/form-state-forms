@@ -1,0 +1,2 @@
+(this["webpackJsonpform-state-forms"]=this["webpackJsonpform-state-forms"]||[]).push([[12],{56:function(t,r,s){"use strict";s.r(r);var o=s(1);r.default=function(){return Object(o.jsx)("form",{children:"RegistrationForm"})}}}]);
+//# sourceMappingURL=12.ccebb618.chunk.js.map
